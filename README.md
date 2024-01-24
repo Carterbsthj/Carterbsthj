@@ -1,5 +1,5 @@
 ### Hi there, I'm Roman 👋
-A Senior Python Developer with a passion for creating scalable and efficient solutions. Specializing in back-end development, data analysis, and system automation.
+A Python Developer with a passion for creating scalable and efficient solutions. Specializing in back-end development, data analysis, and system automation.
  
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
