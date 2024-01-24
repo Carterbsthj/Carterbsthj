@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name] - aka [Your Nickname] 👋
+### Hi there, I'm Roman 👋
 A Senior Python Developer with a passion for creating scalable and efficient solutions. Specializing in back-end development, data analysis, and system automation.
  
 ### Languages and Tools:
